@@ -22,7 +22,4 @@
         'views/account_move_view.xml',
     ],
     'images': ['images/main_screenshot.png'],
-    'cloc_exclude': [
-        "**/*", # can be used to ignore an entire module.
-    ],
 }
